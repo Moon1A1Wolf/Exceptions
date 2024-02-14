@@ -1,0 +1,14 @@
+C:\Users\Nastya\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+C:\Users\Nastya\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+C:\Users\Nastya\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+C:\Users\Nastya\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\nunit.framework.dll
+C:\Users\Nastya\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\nunit.framework.legacy.dll
+C:\Users\Nastya\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Nastya\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\nunit.framework.xml
+C:\Users\Nastya\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\nunit.framework.legacy.xml
+C:\Users\Nastya\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.AssemblyReference.cache
+C:\Users\Nastya\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nastya\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CopyComplete
+C:\Users\Nastya\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+C:\Users\Nastya\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
